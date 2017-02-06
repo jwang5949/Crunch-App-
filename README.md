@@ -20,18 +20,14 @@ Screens
 
 There will be: 4 Screens 1) Calendar Main Screen; displays the amount of free time and the schedule of the day with the view of the calendar 2) Event screen: close up view to the event include the time date location alarm notes 3) Add Event screen: ability to customize the event that the user wants to schedule in their free time or during their day including the time data location alarm notes 4) Setting screen: changes to the setting of the overview of the app including the calendar that the user is using and the alarm sound and the start of the week
 
-External services
-
-API: google maps EventKit
+External services: none
 
 Views, View Controllers, and other Classes
 
 Views 4 views
 View Controllers View controller → Navigator controller → 2 other view controller
-Other Classes //I don’t know
+Other Classes 
 Data models
-
-// I don’t know what data models
 
 MVP Milestones
 
